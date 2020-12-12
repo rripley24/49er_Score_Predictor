@@ -1,6 +1,6 @@
-# Fintech Group Project #2
-## ASU Fintech Fall 2020 Course
-### Group 1:
+# 49ers Total Score Predictor 
+## ASU Fintech 2020 
+### Group:
  * Sheldon Harracksingh
  * Xavier Spurlock
  * Richard Ripley
